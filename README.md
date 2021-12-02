@@ -1,6 +1,6 @@
 ## Hi, I'm Cory! 
 
-I am a ecologist who likes to build stuff with R. 
+I am an ecologist who likes to build stuff with R. 
 
 ### Some things I've made :hammer:
 
